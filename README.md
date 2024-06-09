@@ -2,6 +2,9 @@
 
 This is a simple Resume/CV application built with pure JavaScript and Tailwind CSS. It fetches data from various endpoints and displays it on the web page. Timeouts are used to simulate loading spinners. This project is for fun and to practice pure JavaScript. It reflects my experience, skills, and personal details.
 
+## Preview URL
+https://htmlpreview.github.io/?https://github.com/adamrosloniec/resume/blob/main/index.html
+
 ## Technologies Used
 
 - **Pure JavaScript**: Used for fetching data from endpoints and updating the DOM.
